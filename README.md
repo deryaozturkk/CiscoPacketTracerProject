@@ -20,3 +20,6 @@ Her bir switch ve PC için gerekli konfigürasyonlar yapılmıştır. Switchleri
 
 Projenin bir sonraki aşamasında, cihazlar arasındaki iletişimin doğrulanması için "ping" komutu kullanılmıştır. Her bir PC'nin diğer PC'lerle başarılı bir şekilde iletişim kurup kurmadığı kontrol edilmiştir.
 ![image](https://github.com/deryaozturkk/CiscoPacketTracerProject/assets/72493701/619cd857-0067-4a7b-aad4-46fe7509ce48)
+<img src="https://github.com/deryaozturkk/CiscoPacketTracerProject/assets/72493701/8a46c9ff-9efe-46af-97b4-b67b35df89a4" alt="image" width="400">
+![image](https://github.com/deryaozturkk/CiscoPacketTracerProject/assets/72493701/3a3b93c6-bf57-4f6f-b0b2-bb15a9b49cae)
+
